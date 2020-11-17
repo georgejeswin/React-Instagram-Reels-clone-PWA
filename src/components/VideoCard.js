@@ -29,7 +29,6 @@ function VideoCard({ url, likes, shares, channel, avatarSrc, song }) {
         onClick={onVideoPress}
         className="videoCard__player"
         src={url}
-        df
         alt="ig reel video"
         loop
       />
