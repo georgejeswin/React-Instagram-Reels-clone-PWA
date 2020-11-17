@@ -1,0 +1,21 @@
+{
+    "name": "Instagram Reels clone",
+    "short_name": "Instagram Reels clone",
+    "theme_color": "#cb6292",
+    "background_color": "#cb6292",
+    "display": "standalone",
+    "scope": "/",
+    "start_url": "/",
+  "icons": [
+    {
+      "src": "images/192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images/512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
